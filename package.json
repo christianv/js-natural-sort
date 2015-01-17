@@ -1,0 +1,24 @@
+{
+	"name": "js-natural-sort",
+	"version": "0.7.0",
+	"description": "Natural Sort algorithm for Javascript - Version 0.7 - Released under MIT license",
+	"main": "naturalSort.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/christianv/js-natural-sort.git"
+	},
+	"keywords": [
+		"natural",
+		"sort",
+		"javascript",
+		"array",
+		"sort",
+		"sorting"
+	],
+	"author": "Jim Palmer (based on chunking idea from Dave Koelle, packaged by @christianv)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/christianv/js-natural-sort/issues"
+	},
+	"homepage": "https://github.com/christianv/js-natural-sort"
+}
