@@ -1,7 +1,7 @@
 {
 	"name": "js-natural-sort",
-	"version": "0.7.0",
-	"description": "Natural Sort algorithm for Javascript - Version 0.7 - Released under MIT license",
+	"version": "0.8.0",
+	"description": "Natural Sort algorithm for Javascript (supports AMD / Browserify & CommonJS)",
 	"main": "naturalSort.js",
 	"repository": {
 		"type": "git",
