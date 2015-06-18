@@ -2,7 +2,7 @@
   "name": "js-natural-sort",
   "version": "0.8.0",
   "description": "Natural Sort algorithm for Javascript (supports AMD / Browserify & CommonJS)",
-  "main": "naturalSort.js",
+  "main": "dist/naturalsort.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/christianv/js-natural-sort.git"
